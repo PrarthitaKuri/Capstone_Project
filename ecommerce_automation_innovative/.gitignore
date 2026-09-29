@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+reports/screenshots/*.png
+reports/*.html
+data/test_data_results.xlsx
